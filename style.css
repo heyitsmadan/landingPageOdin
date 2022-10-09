@@ -35,6 +35,15 @@ ul {
     justify-content: space-around;
     align-items: center;
 }
+.intro {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F2937;
+}
 
-
+.intro .text {
+    display: flex;
+    flex-direction: column;
+}
 
