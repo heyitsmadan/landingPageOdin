@@ -5,3 +5,9 @@
 .header {
     background-color: #1F2937;
 }
+
+.header .logo {
+    color:  #f9FAF8;
+    font-size: 24px;
+}
+
