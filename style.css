@@ -61,3 +61,43 @@ a {
     color: #E5E7EB;
 }
 
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    gap: 5vh;
+}
+
+.card img {
+    width: 10vh;
+    height: 10vh;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+}
+
+.card p {
+    text-align: center;
+}
+
+.information h2 {
+    font-size: 36px;
+    font-variant: 'extra-bold';
+    color:#1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+}
+
+.quote p{
+    font-size: 36px;
+    font-family: ;
+    color: #1F2937;
+}
+
+
