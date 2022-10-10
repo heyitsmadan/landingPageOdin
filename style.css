@@ -41,6 +41,12 @@ a {
 .intro .text {
     display: flex;
     flex-direction: column;
+    max-width: 40vw;
+}
+
+
+.intro img{
+    width: 40vw;
 }
 
 .text h1 {
