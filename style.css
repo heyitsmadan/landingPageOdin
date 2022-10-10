@@ -137,7 +137,7 @@ a {
     justify-content: center;
     width: 50vw;
     margin: 0 auto;
-    padding: 50px;
+    padding: 100px;
 }
 
 .quote .text p{
@@ -156,7 +156,7 @@ a {
     width: 60vw;
     background-color: #3882F6;
     border-radius: 5px;
-    margin: 50px auto;
+    margin: 80px auto;
     padding: 25px;
 }
 
