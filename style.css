@@ -14,6 +14,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 10px;
 }
 
 .header .logo, .signUp .text h2{
@@ -82,11 +83,13 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
 }
 
 .cards {
     display: flex;
     gap: 3vw;
+    padding: 20px;
 }
 
 .card {
@@ -129,6 +132,7 @@ a {
     justify-content: center;
     width: 50vw;
     margin: 0 auto;
+    padding: 50px;
 }
 
 .quote .text p{
@@ -143,11 +147,12 @@ a {
 .signUp .content{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     width: 60vw;
     background-color: #3882F6;
     border-radius: 5px;
-    margin: 0 auto;
+    margin: 50px auto;
+    padding: 25px;
 }
 
 .signUp .content button{
@@ -155,9 +160,10 @@ a {
     border-radius: 3px;
     background-color: #3882F6;
     text-decoration: none;
+    padding: 5px 25px;
 }
 
-.content button a{
+.content button a h4{
     color:#F9FAF8;
 }
 
@@ -169,5 +175,5 @@ a {
     width:fit-content;
     color: #F9FAF8;
     margin: 0 auto;
-    border: solid white;
+    padding: 25px;
 }
