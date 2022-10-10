@@ -160,3 +160,14 @@ a {
 .content button a{
     color:#F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+}
+
+.footer p {
+    width:fit-content;
+    color: #F9FAF8;
+    margin: 0 auto;
+    border: solid white;
+}
