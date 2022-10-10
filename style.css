@@ -44,6 +44,19 @@ a {
     max-width: 40vw;
 }
 
+.intro .text button{
+    background-color: #3882F6;
+    border-radius: 6px;
+    width: 8vw;
+    padding: 5px;
+    border: none;
+}
+
+.intro .text button a h3 {
+    color:#F9FAF8;
+    margin: 0%;
+    padding: 0%;
+}
 
 .intro img{
     width: 40vw;
