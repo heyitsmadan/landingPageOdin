@@ -91,6 +91,10 @@ a {
     padding: 20px;
 }
 
+.information h2 {
+    padding: 20px;
+}
+
 .cards {
     display: flex;
     gap: 3vw;
@@ -145,7 +149,7 @@ a {
     color: #1F2937;
 }
 
-.quote .text h3{
+.quote .text h2{
     align-self: flex-end;
 }
 
