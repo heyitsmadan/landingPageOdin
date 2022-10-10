@@ -7,14 +7,16 @@
 .hero {
     display:flex;
     flex-direction: column;
+    background-color: #1F2937;
 }
 
 .header {
-    background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 10px;
+    width: 80vw;
+    margin: 0 auto;
 }
 
 .header .logo, .signUp .text h2{
@@ -39,13 +41,16 @@ a {
     justify-content: center;
     align-items: center;
     background-color: #1F2937;
-    padding: 20px;
+    padding: 10px;
+    width: 80vw;
+    margin: 30px auto;
 }
 
 .intro .text {
     display: flex;
     flex-direction: column;
     max-width: 40vw;
+    gap: 10px;
 }
 
 .intro .text button{
